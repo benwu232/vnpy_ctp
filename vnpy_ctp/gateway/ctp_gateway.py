@@ -110,7 +110,8 @@ EXCHANGE_CTP2VT: Dict[str, Exchange] = {
     "SHFE": Exchange.SHFE,
     "CZCE": Exchange.CZCE,
     "DCE": Exchange.DCE,
-    "INE": Exchange.INE
+    "INE": Exchange.INE,
+    "GFEX": Exchange.GFEX
 }
 
 # 品种状态进入原因映射  hxxjava debug
